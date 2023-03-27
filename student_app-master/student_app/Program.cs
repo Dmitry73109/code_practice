@@ -6,7 +6,7 @@ namespace student_app
 {
     public class subjects
     {
-        public subjects(string path)//creates a file with names and IDs of items that are in the system
+        public subjects(string path)//create a file with names and IDs of items that are in the system
         {
             using (StreamWriter sw = new StreamWriter(path + "SbjctList"))
             {
