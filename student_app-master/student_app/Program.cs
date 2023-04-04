@@ -212,7 +212,7 @@ namespace student_app
                 string sub;
                 int student_number = 200;
                 int[] marks = new int[3];
-                string[] firstName = {"Viktoria", "Iris","Sasha", "Ulya", "Denis", "Alena" };//students with some test data
+                string[] firstName = {"Viktoria", "Iris","Sasha", "Ulya", "Denis", "Alena" };//students with test data
                 string[] lastName = { "Smith", "Johnson", "Williams", "Jones", "Brown", "Davis" };
                 int q = 0;
                 Directory.CreateDirectory(path);
