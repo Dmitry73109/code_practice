@@ -7,6 +7,7 @@ namespace Program19
         public int x = 0;
         public int y = 0;
         public int length = 1;
+        
         public void SetPosition(int x, int y)
         {
             this.x = x;
