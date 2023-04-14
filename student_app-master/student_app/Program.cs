@@ -491,7 +491,6 @@ namespace student_app
                         Console.WriteLine("This student has the highest("+ max_score +") score in this subject:");
                         showInfo(id[max_id],path);
                         break;
-                    //the end
                 }
             }
         }
