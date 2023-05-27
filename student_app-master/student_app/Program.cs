@@ -2,7 +2,7 @@
 using System.IO;
 using System.Collections.Generic;
 
-
+ 
 namespace student_app
 {
     public class subjects
