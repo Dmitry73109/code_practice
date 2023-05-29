@@ -1,6 +1,5 @@
 ﻿using System;
 
-
 namespace Program17
 {
     public class Person
