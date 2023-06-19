@@ -1,5 +1,6 @@
 ﻿using System;
 
+
 namespace Program19
 {
     public class Square
